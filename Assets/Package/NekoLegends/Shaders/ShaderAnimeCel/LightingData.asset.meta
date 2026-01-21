@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b22f084ab411c8c4c9d3ef25057685b1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259864
+  packageName: Anime Cel Shader URP
+  packageVersion: 3.1.1
+  assetPath: Assets/NekoLegends/Shaders/ShaderAnimeCel/AddOn_Glass/Demo/CelShader_Glass/LightingData.asset
+  uploadId: 794136
