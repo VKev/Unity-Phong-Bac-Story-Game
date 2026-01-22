@@ -23,6 +23,25 @@
 # Recordings can get excessive in size
 /[Rr]ecordings/
 
+# Generated player/build exports (UWP/IL2CPP)
+/Data/
+/Managed/
+/GeneratedAssets/
+/Plugins/
+/*.vcxproj*
+/*.sln*
+/*.vcxitems*
+/App.cpp
+/App.h
+/Main.cpp
+/pch.cpp
+/pch.h
+/UnityGenerated.*
+/Package.appxmanifest
+/StoreManifest.xml
+/Resource.res
+/WSATestCertificate.pfx
+
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
 
